@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|d:\\esad-cs\\05_asp_dot_net_mvc\\mvc practical\\db first\\master details\\master details\\productordermanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|d:\\esad-cs\\05_asp_dot_net_mvc\\mvc practical\\db first\\master details\\master details\\productordermanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|d:\\esad-cs\\05_asp_dot_net_mvc\\mvc practical\\db first\\master details\\master details\\productordermanagement\\views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|solutionrelative:views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|d:\\esad-cs\\05_asp_dot_net_mvc\\mvc practical\\db first\\master details\\master details\\productordermanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|d:\\esad-cs\\05_asp_dot_net_mvc\\mvc practical\\db first\\master details\\master details\\productordermanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F087986-C13F-4F4E-A344-E4378D96A3A1}|ProductOrderManagement.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:43:12.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:28:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductCard.cshtml",
+              "DocumentMoniker": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\_ProductCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\_ProductCard.cshtml",
+              "ToolTip": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\_ProductCard.cshtml",
+              "RelativeToolTip": "Views\\Product\\_ProductCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:32:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:32:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\ESAD-CS\\05_ASP_Dot_NET_MVC\\MVC Practical\\DB First\\Master Details\\Master Details\\ProductOrderManagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:31:26.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

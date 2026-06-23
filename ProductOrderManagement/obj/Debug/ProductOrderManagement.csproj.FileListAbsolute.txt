@@ -1,0 +1,581 @@
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\ProductOrderManagement.dll.config
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\ProductOrderManagement.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\ProductOrderManagement.pdb
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csc.exe
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csc.exe.config
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csc.rsp
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csi.exe
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csi.exe.config
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\csi.rsp
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Console.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\vbc.exe
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\vbc.exe.config
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\vbc.rsp
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Antlr3.Runtime.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\EntityFramework.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Newtonsoft.Json.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Helpers.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Mvc.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Optimization.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Razor.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\WebGrease.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\EntityFramework.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Helpers.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Mvc.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Optimization.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.Razor.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Newtonsoft.Json.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\obj\Debug\ProductO.6872E080.Up2Date
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\obj\Debug\ProductOrderManagement.dll
+D:\ESAD-CS\05_ASP_Dot_NET_MVC\MVC Practical\DB First\Master Details\Master Details\ProductOrderManagement\obj\Debug\ProductOrderManagement.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csc.exe
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csc.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csc.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csi.exe
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csi.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\csi.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Console.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\vbc.exe
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\vbc.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\vbc.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ff\Downloads\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Antlr3.Runtime.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\EntityFramework.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Helpers.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Mvc.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Optimization.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Razor.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\WebGrease.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\EntityFramework.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Helpers.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Mvc.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Optimization.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.Razor.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ff\Downloads\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+C:\Users\ff\Downloads\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\ff\Downloads\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CopyComplete
+C:\Users\ff\Downloads\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+C:\Users\ff\Downloads\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csc.exe
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csc.exe.config
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csc.rsp
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csi.exe
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csi.exe.config
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\csi.rsp
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Console.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\vbc.exe
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\vbc.exe.config
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\vbc.rsp
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Antlr3.Runtime.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\EntityFramework.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Helpers.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Mvc.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Optimization.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Razor.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\WebGrease.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\EntityFramework.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Helpers.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Mvc.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Optimization.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.Razor.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CopyComplete
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\Sayem\Work_2\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csc.exe
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csc.exe.config
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csc.rsp
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csi.exe
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csi.exe.config
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\csi.rsp
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Console.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\vbc.exe
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\vbc.exe.config
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\vbc.rsp
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Antlr3.Runtime.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\EntityFramework.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Helpers.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Mvc.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Optimization.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Razor.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\WebGrease.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\EntityFramework.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Helpers.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Mvc.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Optimization.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.Razor.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CopyComplete
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+C:\Users\SHAHRIAR\Downloads\Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csc.exe
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csc.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csc.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csi.exe
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csi.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\csi.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Console.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\vbc.exe
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\vbc.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\vbc.rsp
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Antlr3.Runtime.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\EntityFramework.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Helpers.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Mvc.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Optimization.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Razor.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\WebGrease.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\EntityFramework.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Helpers.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Mvc.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Optimization.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.Razor.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CopyComplete
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\ProductOrderManagement\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.exe
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.exe.config
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.rsp
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.exe
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.exe.config
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.rsp
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Console.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.exe
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.exe.config
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.rsp
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Antlr3.Runtime.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Helpers.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Mvc.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Optimization.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Razor.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\WebGrease.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Helpers.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Mvc.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Optimization.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.Razor.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CopyComplete
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+C:\Users\ff\Downloads\12916217_Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll.config
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\MobileShopOrderMangement.pdb
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.exe
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.exe.config
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csc.rsp
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.exe
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.exe.config
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\csi.rsp
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.AppContext.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Console.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Globalization.Calendars.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Net.Http.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Net.Sockets.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.ValueTuple.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.exe
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.exe.config
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\vbc.rsp
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Antlr3.Runtime.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Newtonsoft.Json.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Helpers.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Mvc.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Optimization.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Razor.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\WebGrease.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\EntityFramework.SqlServer.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Newtonsoft.Json.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Helpers.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Mvc.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Optimization.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.Razor.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Deployment.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\System.Web.WebPages.Razor.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Antlr3.Runtime.pdb
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.AssemblyReference.cache
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductOrderManagement.csproj.CoreCompileInputs.cache
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\obj\Debug\ProductO.6872E080.Up2Date
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.dll
+E:\IsDB_Course\12916217_Sayem\ProductOrderManagement\obj\Debug\MobileShopOrderMangement.pdb

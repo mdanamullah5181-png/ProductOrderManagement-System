@@ -1,0 +1,113 @@
+﻿@model IEnumerable<MobileShopOrderMangement.Models.ViewModels.ProductViewModel>
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-md-8">
+            <h2>
+                <i class="fas fa-cube"></i> Products
+            </h2>
+        </div>
+        <div class="col-md-4 text-right">
+            @Html.ActionLink("Create New Product", "Create", null, new { @class = "btn btn-primary btn-lg" })
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+        </div>
+    }
+
+    <!-- Search Form -->
+    <div class="card mb-4">
+        <div class="card-header bg-info text-white">
+            <h5 class="mb-0"><i class="fas fa-search"></i> Search & Filter Products</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Index", "Product", FormMethod.Get))
+            {
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <label><i class="fas fa-folder"></i> Category</label>
+                        @Html.DropDownList("categoryId",
+                            ViewBag.Categories as SelectList,
+                            "-- All Categories --",
+                            new { @class = "form-control" })
+                    </div>
+
+                    <div class="col-md-5 mb-3">
+                        <label><i class="fas fa-box"></i> Product Name</label>
+                        @Html.TextBox("searchName",
+                            ViewBag.SearchName as string,
+                            new { @class = "form-control", placeholder = "Search by product name..." })
+                    </div>
+
+                    <div class="col-md-3 mb-3">
+                        <label>&nbsp;</label>
+                        <div class="btn-group w-100" role="group">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-search"></i> Search
+                            </button>
+                            <a href="@Url.Action("Index", "Product")" class="btn btn-secondary">
+                                <i class="fas fa-redo"></i> Clear
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Products Grid -->
+    @if (Model.Any())
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    @Html.Partial("_ProductCard", item)
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning">
+            <i class="fas fa-exclamation-triangle"></i> No products found matching your search criteria. <strong>@Html.ActionLink("Create a new product", "Create")</strong>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        function toggleStatus(productId) {
+            $.ajax({
+                url: '@Url.Action("ToggleStatus", "Product")',
+                type: 'POST',
+                data: { id: productId },
+                success: function (response) {
+                    if (response.success) {
+                        var badge = $('#status-badge-' + productId);
+                        if (response.isActive) {
+                            badge.removeClass('badge-danger').addClass('badge-success').text('Active');
+                        } else {
+                            badge.removeClass('badge-success').addClass('badge-danger').text('Inactive');
+                        }
+                        alert('Status updated successfully!');
+                    } else {
+                        alert('Error: ' + response.message);
+                    }
+                },
+                error: function () {
+                    alert('Error updating status');
+                }
+            });
+        }
+    </script>
+}

@@ -1,0 +1,70 @@
+﻿@model MobileShopOrderMangement.Models.ViewModels.ProductViewModel
+
+<div class="card h-100 shadow-sm product-card" id="product-@Model.ProductId">
+    @if (!string.IsNullOrEmpty(Model.ProductImage))
+    {
+        <img src="@Url.Content("~/Images/" + Model.ProductImage)" class="card-img-top" alt="@Model.ProductName" style="height: 220px; object-fit: cover;">
+    }
+    else
+    {
+        <div class="bg-light d-flex align-items-center justify-content-center" style="height: 220px; color: #bbb;">
+            <i class="fas fa-image fa-5x"></i>
+        </div>
+    }
+
+    <div class="card-body">
+        <h5 class="card-title text-truncate" title="@Model.ProductName">@Model.ProductName</h5>
+        <div class="card-text small text-muted">
+            <div class="mb-2">
+                <strong><i class="fas fa-folder"></i> Category:</strong><br/>
+                <span class="badge badge-info">@Model.CategoryName</span>
+            </div>
+            <div class="mb-2">
+                <strong><i class="fas fa-cube"></i> Unit:</strong> @Model.Unit
+            </div>
+            <div class="mb-2">
+                <strong><i class="fas fa-money-bill-wave"></i> Price:</strong>
+                <span class="text-success font-weight-bold">৳ @Model.UnitPrice</span>
+            </div>
+            <div class="mb-2">
+                <strong><i class="fas fa-warehouse"></i> Stock:</strong> 
+                <span class="badge @(Model.AvailableQuantity > 0 ? "badge-success" : "badge-danger")">
+                    @Model.AvailableQuantity @Model.Unit
+                </span>
+            </div>
+            <div>
+                <strong><i class="fas fa-power-off"></i> Status:</strong>
+                <span id="status-badge-@Model.ProductId" class="badge @(Model.IsActive ? "badge-success" : "badge-secondary")">
+                    <i class="fas fa-@(Model.IsActive ? "check-circle" : "times-circle")"></i>
+                    @(Model.IsActive ? "Active" : "Inactive")
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-footer bg-white border-top-0">
+        <div class="btn-group w-100 mb-2" role="group">
+            <button type="button" class="btn btn-sm btn-info w-50" onclick="toggleStatus(@Model.ProductId)" title="Toggle product status">
+                <i class="fas fa-toggle-on"></i> Toggle
+            </button>
+            <a href="@Url.Action("Edit", "Product", new { id = Model.ProductId })" class="btn btn-sm btn-warning w-50" title="Edit product">
+                <i class="fas fa-edit"></i> Edit
+            </a>
+        </div>
+        <a href="@Url.Action("Delete", "Product", new { id = Model.ProductId })" class="btn btn-sm btn-danger w-100" title="Delete product">
+            <i class="fas fa-trash"></i> Delete
+        </a>
+    </div>
+</div>
+
+<style>
+    .product-card {
+        border: none;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .product-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15) !important;
+    }
+</style>
